@@ -123,6 +123,7 @@ This project uses Amazon Lightsail to create a Linux server instance.
 
 
 Resources:
+
     - https://medium.com/@mariasurmenok/creating-a-server-with-amazon-lightsail-11c377cf814c
     - https://vishnut.me/blog/ec2-flask-apache-setup.html
     - http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
