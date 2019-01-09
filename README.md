@@ -144,3 +144,4 @@ Resources:
     - https://websiteforstudents.com/how-to-disable-remote-logon-for-root-on-ubuntu-16-04-lts-servers/
     - http://httpd.apache.org/docs/current/mod/mod_alias.html#alias
     - https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/
+    - https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw/
