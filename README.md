@@ -4,8 +4,13 @@ The finla project of Full Stak Web Developer Nanodegree. I was asked to insatll 
 Link to my previous Project: FragranceShop
 
 Server Info:
+URL: http://34.208.30.71.xip.io
 IP: 34.208.30.71
 Port: 2200
+IP: 34.208.30.71
+GRADER:
+SSH passphrase: no passphrase
+user password: 123
 
 Getting Started:
 This project uses Amazon Lightsail to create a Linux server instance.
