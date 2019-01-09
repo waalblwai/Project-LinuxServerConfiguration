@@ -129,6 +129,13 @@ This project uses Amazon Lightsail to create a Linux server instance.
 
         sudo service apache2 restart
         
+     16. To erase error logs in the server
+           sudo bash -c 'echo > /var/log/apache2/error.log
+     
+      17. To show error in the server
+            sudo tail -100 /var/log/apache2/error.log
+      
+        
 
 
 Resources:
