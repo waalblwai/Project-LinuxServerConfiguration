@@ -15,10 +15,6 @@ Port: 2200
 IP: 34.208.30.71
 
 
-GRADER:
-
-SSH passphrase: no passphrase
-user password: 123
 
 Getting Started:
 This project uses Amazon Lightsail to create a Linux server instance.
