@@ -1,14 +1,22 @@
 Project: Linux Server Configuration
+
+
 The finla project of Full Stak Web Developer Nanodegree. I was asked to insatll a Linux server and prepare it to host my web application of previous project "Item Catalog". 
+
 
 Link to my previous Project: FragranceShop
 
 Server Info:
+
+
 URL: http://34.208.30.71.xip.io
 IP: 34.208.30.71
 Port: 2200
 IP: 34.208.30.71
+
+
 GRADER:
+
 SSH passphrase: no passphrase
 user password: 123
 
