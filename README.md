@@ -130,3 +130,4 @@ Resources:
     - https://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt
     - https://websiteforstudents.com/how-to-disable-remote-logon-for-root-on-ubuntu-16-04-lts-servers/
     - http://httpd.apache.org/docs/current/mod/mod_alias.html#alias
+    - https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/
