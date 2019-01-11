@@ -9,10 +9,10 @@ Link to my previous Project: FragranceShop
 Server Info:
 
 
-URL: http://34.208.30.71.xip.io
-IP: 34.208.30.71
+URL: http://54.201.183.95.xip.io
+IP: 54.201.183.95
 Port: 2200
-IP: 34.208.30.71
+
 
 
 
@@ -36,7 +36,7 @@ This project uses Amazon Lightsail to create a Linux server instance.
         sudo apt-get update
         sudo apt-get upgrade
 
-    3. Change SSH port to 2200: using this command, and going to the line where it says Port 20, change to 2200
+    3. Change SSH port to 2200: using this command, and going to the line where it says Port 22, change to 2200
 
         sudo nano /etc/ssh/sshd_config
 
@@ -70,7 +70,7 @@ This project uses Amazon Lightsail to create a Linux server instance.
         
         You can now connect using the command:
 
-        $ ssh -i /grader grader@34.208.30.71 -p 2200
+        $ ssh -i /grader grader@54.201.183.95 -p 2200
 
     8. Setup Python3 Environment:
         - First, update apt-get.
@@ -83,9 +83,9 @@ This project uses Amazon Lightsail to create a Linux server instance.
             mkdir flaskproject
         - Set up the virtual environment.
             cd flaskproject
-            virtualenv venv
+            virtualenv env
         - Activate the environment (use deactivate to exit the environment).
-            . venv/bin/activate
+            . env/bin/activate
 
     9. Configure the local timezone to UTC.
 
